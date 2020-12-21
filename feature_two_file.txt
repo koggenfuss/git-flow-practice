@@ -1,0 +1,1 @@
+i dont like vim because it is buggy on macbook pro terminal but now ive learned to use cntrl c to esc since esc doesnt work in vim onmacbook pro.  
